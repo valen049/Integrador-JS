@@ -1,9 +1,9 @@
-🛍️ Proyecto en JavaScript
+# 🛍️ Proyecto en JavaScript
 ## Zalazar Valentin
-# Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto es una tienda interactiva desarrollada en JavaScript que permite a los usuarios realizar operaciones básicas de Crear, Leer, Actualizar y Eliminar productos. El objetivo principal es aplicar los conceptos fundamentales de desarrollo web interactivo y manipulación del Local Storage para guardar los datos de manera persistente en el navegado
 
-🚀 Instalación y ejecución
+# 🚀 Instalación y ejecución
 1.Descarga el proyecto desde el repositorio o como un archivo .zip.
 
 2.Descomprime el archivo y abre la carpeta del proyecto en tu editor de código preferido, como Visual Studio Code.
@@ -19,4 +19,4 @@ Este proyecto es una tienda interactiva desarrollada en JavaScript que permite a
 ### npm run dev
 6.Esto lanzará un servidor local en tu navegador, donde podrás visualizar la tienda interactiva.
 
-Agradecemos su visita
+## Agradecemos su visita
